@@ -1,2 +1,2 @@
 # online-assessment-tool
-NextJS and MongoDB Fullstack project to be
+NextJS and MongoDB Fullstack project

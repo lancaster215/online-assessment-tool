@@ -1,0 +1,12 @@
+{
+  "extends": ["next/core-web-vitals", "airbnb", "plugin:prettier/recommended"],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "import/no-unresolved": 0,
+    "import/extensions": [2, { "js": "never", "jsx": "never" }],
+    "react/jsx-props-no-spreading": 0,
+    "react/react-in-jsx-scope": 0
+  }
+}
